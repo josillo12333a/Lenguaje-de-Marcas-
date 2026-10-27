@@ -1,0 +1,1 @@
+Select Pais, count(*) as numerodeclientes from Clientes group by Pais;

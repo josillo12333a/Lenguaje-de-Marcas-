@@ -1,0 +1,1 @@
+Select count(*) as numerodeempleados from Empleados;

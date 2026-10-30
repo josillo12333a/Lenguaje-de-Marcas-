@@ -1,0 +1,1 @@
+ select Nombre, Apellido1, Apellido2, Email from Empleados Where CodigoJefe="2";

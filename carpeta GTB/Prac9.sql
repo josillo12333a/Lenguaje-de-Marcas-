@@ -1,0 +1,1 @@
+ Select Puesto, Nombre, Apellido1, Apellido2, Email from Empleados where Puesto="Director General";

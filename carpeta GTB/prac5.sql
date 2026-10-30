@@ -1,0 +1,1 @@
+Select Estado, count(*) as estadosposibles from Pedidos group by Estado Order by estadosposibles DESC;

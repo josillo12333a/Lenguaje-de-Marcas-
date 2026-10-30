@@ -1,0 +1,1 @@
+select Ciudad, Telefono from Oficinas Where Pais="EEUU";

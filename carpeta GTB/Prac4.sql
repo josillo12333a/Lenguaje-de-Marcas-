@@ -1,0 +1,1 @@
+ Select avg(Cantidad) from Pagos Where YEAR(FechaPago) = 2005;
